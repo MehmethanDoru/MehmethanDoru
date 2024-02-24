@@ -2,6 +2,7 @@
 <h1 align="center">I'm Mehmethan Doru 👋</h1>
 <h3 align="center">Jr. Web developer from Türkiye</h3>
 <br>
+
 - 🔭 I’m currently working on [Portfolio Website](https://mehmethandoru.com/)
 
 - 🌱 I’m currently learning **Angular and Java**
