@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mehmethan Doru 👋</h1>
-<h3 align="center">A Jr. Web developer from Türkiye</h3>
+<h3 align="center">Jr. Web developer from Türkiye</h3>
 
 
 - 🔭 I’m currently working on [Portfolio Website](https://mehmethandoru.com/)
