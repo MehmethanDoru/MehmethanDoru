@@ -3,13 +3,13 @@
 <h3 align="center">Jr. Web developer from Türkiye</h3>
 <br>
 
-- 🔭 I’m currently working on [Portfolio Website](https://mehmethandoru.com/){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://mehmethandoru.com/" target="_blank">Portfolio Website</a>
 
 - 🌱 I’m currently learning **Angular and Java**
 
 - 📫 How to reach me **mdoru22@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mehmethandoru/](https://www.linkedin.com/in/mehmethandoru/){:target="_blank"}
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/mehmethandoru/" target="_blank">https://www.linkedin.com/in/mehmethandoru/</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
